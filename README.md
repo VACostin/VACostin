@@ -1,4 +1,12 @@
-# CATCHY Title
+<p>
+  <span style="color: red;">C</span>
+  <span style="color: orange;">A</span>
+  <span style="color: yellow;">T</span>
+  <span style="color: green;">C</span>
+  <span style="color: blue;">H</span>
+  <span style="color: indigo;">Y</span>
+  <span style="color: violet;">&nbsp;Title</span>
+</p>
 
 ### About Me BUZZWORDS: ADEPT, MeThOdICaL, OBServAtioNAL, VISIONARY!!
 
