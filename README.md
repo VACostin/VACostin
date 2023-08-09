@@ -1,16 +1,66 @@
-### Hi there 👋
+# CATCHY Title
 
-<!--
-**VACostin/VACostin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me BUZZWORDS: ADEPT, MeThOdICaL, OBServAtioNAL, VISIONARY!!
 
-Here are some ideas to get you started:
+### :hammer_and_wrench: My "Hello World" labels so far :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+      />
+      <br /><strong>Redux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+  </tr>
+</table>
