@@ -62,5 +62,16 @@
       />
       <br /><strong>MongoDB</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://tidelift.com/hubfs/mogoose-logo.png"
+        width="48"
+        height="48"
+        alt="Mongoose"
+      />
+      <br /><strong>Mongoose</strong>
+    </td>
   </tr>
 </table>
+
+Click on any of them to visit a related project.
