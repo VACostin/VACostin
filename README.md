@@ -69,5 +69,3 @@
     </td>
   </tr>
 </table>
-
-Click on any of them to visit a related project.
