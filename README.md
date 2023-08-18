@@ -68,4 +68,15 @@
       <br /><strong>Mongoose</strong>
     </td>
   </tr>
+   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+  </tr>
 </table>
