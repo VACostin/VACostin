@@ -48,16 +48,6 @@
         alt="Express"
       />
       <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
         <td align="center" height="108" width="108">
       <img
         src="https://tidelift.com/hubfs/mogoose-logo.png"
@@ -66,6 +56,15 @@
         alt="Mongoose"
       />
       <br /><strong>Mongoose</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
     </td>
   </tr>
    <tr>
@@ -77,6 +76,33 @@
         alt="React"
       />
       <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"
+        width="48"
+        height="48"
+        alt="Nest"
+      />
+      <br /><strong>Nest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="TypeORM"
+      />
+      <br /><strong>TypeORM</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
     </td>
   </tr>
 </table>
