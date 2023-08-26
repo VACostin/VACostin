@@ -97,6 +97,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png"
+        width="48"
+        height="48"
+        alt="Swagger"
+      />
+      <br /><strong>Swagger</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
         width="48"
         height="48"
